@@ -14,3 +14,9 @@ backend/*.pyc
 *.njsproj
 *.sln
 *.sw?
+
+# Virtual environments
+asl_env/
+venv/
+env/
+.venv/
